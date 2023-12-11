@@ -189,7 +189,7 @@ function App() {
       <Title>Quiz App<span>by 22081 이현준</span></Title>
       <Topbar>
         <TopbarButton color="orange">퀴즈 풀기</TopbarButton>
-        <TopbarButton color="teal">오답 확인</TopbarButton>
+        <TopbarButton color="teal">오답 확인(아직 기능 구현 안함)</TopbarButton>
       </Topbar>
       <QuizBox>
         {isQuiz ? null : <QuizText weight={800}>입력한 정답</QuizText>}
