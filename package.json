@@ -2,7 +2,7 @@
   "name": "2023_korean_history_quiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hyunjun06.github.io/2023_history_quiz",
+  "homepage": "https://hyunjun06.github.io/2023_korean_history_quiz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",

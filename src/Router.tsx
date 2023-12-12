@@ -25,6 +25,6 @@ const router = createBrowserRouter([
             }
         ]
     }
-], {basename: "/2023_history_quiz"});
+], {basename: "/2023_korean_history_quiz"});
 
 export default router;
