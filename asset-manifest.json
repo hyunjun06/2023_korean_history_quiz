@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/2023_history_quiz/static/js/main.a8cbb15e.js",
+    "main.js": "/2023_history_quiz/static/js/main.00e954a2.js",
     "index.html": "/2023_history_quiz/index.html",
-    "main.a8cbb15e.js.map": "/2023_history_quiz/static/js/main.a8cbb15e.js.map"
+    "main.00e954a2.js.map": "/2023_history_quiz/static/js/main.00e954a2.js.map"
   },
   "entrypoints": [
-    "static/js/main.a8cbb15e.js"
+    "static/js/main.00e954a2.js"
   ]
 }
