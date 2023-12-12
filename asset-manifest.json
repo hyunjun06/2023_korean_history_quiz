@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/2023_history_quiz/static/js/main.00e954a2.js",
-    "index.html": "/2023_history_quiz/index.html",
-    "main.00e954a2.js.map": "/2023_history_quiz/static/js/main.00e954a2.js.map"
+    "main.js": "/2023_korean_history_quiz/static/js/main.6953954b.js",
+    "index.html": "/2023_korean_history_quiz/index.html",
+    "main.6953954b.js.map": "/2023_korean_history_quiz/static/js/main.6953954b.js.map"
   },
   "entrypoints": [
-    "static/js/main.00e954a2.js"
+    "static/js/main.6953954b.js"
   ]
 }
