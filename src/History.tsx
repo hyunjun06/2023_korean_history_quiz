@@ -135,7 +135,7 @@ function History() {
                     </Quiz>
                 ))
             }
-            {history.length === 0 ?? <NoHistory>푼 문제가 없습니다</NoHistory>}
+            {history.length <= 0 ?? <NoHistory>푼 문제가 없습니다</NoHistory>}
         </Container>
     );
 }
