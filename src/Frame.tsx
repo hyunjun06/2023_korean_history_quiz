@@ -54,7 +54,7 @@ const Title = styled.h1`
 function Frame() {
     return (
         <>
-          <Title>Quiz App<span>by 22081 이현준</span></Title>
+          <Title>Quiz<span>by 22081 이현준</span></Title>
           <Topbar>
             <Link to="">
               <TopbarButton color="orange">퀴즈 풀기</TopbarButton>
